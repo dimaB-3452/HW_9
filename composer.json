@@ -1,0 +1,9 @@
+{
+  "require": {
+    "ext-json": "*",
+    "guzzlehttp/guzzle": "^7.0",
+    "illuminate/view": "^7.0",
+    "illuminate/database": "^7.26",
+    "illuminate/routing": "^7.24"
+  }
+}
